@@ -1,0 +1,90 @@
+.myDiv {
+    background-color: #a3ccae;
+    
+    padding: 10px;
+}
+
+.myHeading {
+    font-family: "Lucida Console";
+    color: #ed135c;
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;   
+}
+.anchor-card {
+    display: flex;
+    text-align: right;
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.anchor-text {
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+.facebookImg {
+    color: black;
+    font-size: 30px;
+    margin-right: 10px;
+}
+
+.instaImg {
+    color: navajowhite;
+    font-size: 30px;
+    margin-right: 10px;
+}
+
+.twitterImg {
+    color: green;
+    font-size: 30px;
+    margin-right: 10px;
+}
+
+.imagesCard {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.card {
+   
+   width: 200px;
+   background-color: white;
+   margin-right: 20px;
+   border-radius: 10px;
+}
+
+.tajMahal {
+    width: 200px;
+    border-radius: 10px;
+}
+
+.textCard {
+    margin: 10px;
+}
+
+.tajmahal-heading {
+    font-family: "Roboto";
+}
+.para-style {
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.unOrderList {
+    font-family: "Roboto";
+    
+}
+
+.tourPlaces {
+    font-family: "Roboto";
+   
+}
